@@ -1,11 +1,14 @@
-## Plan Week 6
+
+# Term 1
+
+## Plan Week 5
 
 - William is going to talk about game design and game mechanics
 
 - Max is going to talk about programming paradigms and concepts
 ---
 
-## Week 7
+## Week 6
 ### Plan
 
 - William is going to go over game design, and what the general plan for our game is.
@@ -16,4 +19,33 @@
 
 ### Reflection
 
+William gave a lecture about game design.
 
+We are going to make a sci-fi fantasy space role-play-game.
+
+Max took some students to do some actual programming and taught them about object oriented programming in python.
+
+Not many of the students had done any programming before so I taught them about the basics.
+
+
+## Week 7
+### Plan
+Max is going to talk to the whole class about programming for the first few minutes of the class, then we are going to split off into different groups as we did in the previous lesson
+
+### Reflection
+There was a lot of students, more than last time.
+It is actually difficult to teach a large amount of students.
+
+For the programming group Max struggled to address the needs of all the students, some of those were a lot more capable than some of the others.
+
+
+## Week 8
+### Plan
+Next week we are going to split organise splitting into different class times, for example having one class on Tuesday and possibly another on Wednesday. This should make it easier to organise and teach the class.
+
+#### Agenda
+- Split class into two groups
+- Have advanced group do most of the game programming
+- Have the standard class go over and run through what the advance class did the previous lesson/week  
+- Possibly split 1 game into two or three games
+- Kick people who are not committed
