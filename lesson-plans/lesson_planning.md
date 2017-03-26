@@ -49,3 +49,11 @@ Next week we are going to split organise splitting into different class times, f
 - Have the standard class go over and run through what the advance class did the previous lesson/week  
 - Possibly split 1 game into two or three games
 - Kick people who are not committed
+
+### Reflection
+
+We started the lesson by watching two videos, one on path finding algorithms and one on object oriented programming.
+While they were quite long, they were very effective at explaining core programming concepts and it allowed us to have a more structured start to the lesson.
+
+We have decided that next period we are going to move into a different class, splitting the programming class.
+We are doing this becuase we feel that there are too many people to have a structered lesson.
